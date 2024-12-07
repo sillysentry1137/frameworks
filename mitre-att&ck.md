@@ -8,7 +8,7 @@
 
 **Overview**: The official site provides access to the full ATT&CK knowledge base - includes techniques, tactics, and procedures (TTPs) used by adversaries.
 
-####**What you get on the main site**:  
+#### **What you get on the main site**:  
   - Matrices/mapping for different platforms  
   - Searchable techniques and tactics
   - Explanations, use cases, and guides  
